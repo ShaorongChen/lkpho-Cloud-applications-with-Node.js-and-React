@@ -16,8 +16,6 @@ This lab demonstrates asynchronous control flow using callbacks in Node.js.
 - [Key Concepts](#key-concepts)  
 - [Usage Examples](#usage-examples)  
 - [Troubleshooting / Tips](#troubleshooting--tips)  
-- [License / Credits](#license--credits)
-
 ---
 
 ## Prerequisites
@@ -32,20 +30,17 @@ This lab demonstrates asynchronous control flow using callbacks in Node.js.
 
 1. Clone the repository (or navigate to this directory if already cloned):
 
-   ```bash
-   git clone https://github.com/ShaorongChen/lkpho-Cloud-applications-with-Node.js-and-React.git
-   cd lkpho-Cloud-applications-with-Node.js-and-React/CD220Labs/async_callback
-````
+    ```bash
+    git clone https://github.com/ShaorongChen/lkpho-Cloud-applications-with-Node.js-and-React.git
+    cd lkpho-Cloud-applications-with-Node.js-and-React/CD220Labs/async_callback
+    ```
 
 2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
-
-   (If there is no `package.json`, you might not need this step; check the code.)
-
-3. (Optional) If any environment variables or configuration files are needed, create or adjust them accordingly.
+    ```bash
+    npm install
+    ```
+    (If there is no `package.json`, you might not need this step; check the code.)
 
 ---
 
